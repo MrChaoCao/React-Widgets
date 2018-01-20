@@ -2,7 +2,7 @@
   "name": "react_widgets",
   "version": "1.0.0",
   "description": "",
-  "main": "widgets.jsx",
+  "main": "frontend/widgets.jsx",
   "scripts": {
     "webpack": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
